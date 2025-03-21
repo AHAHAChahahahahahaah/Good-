@@ -1,0 +1,49 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html>
+<head>
+  <title>Pineapple Clicker</title>
+  <style>
+    #pineapple { width: 200px; cursor: pointer; }
+    #score { font-size: 24px; }
+    #milestone { font-size: 20px; color: gray; }
+  </style>
+</head>
+<body>
+  <div id="score">Очки: 0</div>
+  <div id="milestone">Следующий рубеж: 100</div>
+  <img id="pineapple" src="https://i.postimg.cc/Y211fSRL/Clipped-image-20250321-114842.png" alt="Ананас">
+  <script>
+    let score = 0;
+    let milestone = 100; // Начальный рубеж
+    let pointsPerClick = 1; // Начальные очки за клик
+    const pineapple = document.getElementById('pineapple');
+    const scoreDisplay = document.getElementById('score');
+    const milestoneDisplay = document.getElementById('milestone');
+
+    pineapple.addEventListener('click', () => {
+      score += pointsPerClick; // Добавляем текущие очки за клик
+      scoreDisplay.textContent = `Очки: ${score}`;
+      
+      // Меняем очки за клик после достижения 100
+      if (score >= 100) {
+        pointsPerClick = 5;
+      }
+
+      // Меняем изображение в зависимости от очков
+      if (score >= 100 && score < 200) {
+        pineapple.src = 'https://i.postimg.cc/jdc3cccf/20250321-114920.png'; // Pineapple2
+      } else if (score >= 200) {
+        pineapple.src = 'https://i.postimg.cc/X7XB1c6h/Clipped-image-20250321-121502.png'; // Новый ананас
+      } else {
+        pineapple.src = 'https://i.postimg.cc/Y211fSRL/Clipped-image-20250321-114842.png'; // Pineapple1
+      }
+
+      // Обновляем рубеж, если он достигнут
+      if (score >= milestone) {
+        milestone += 100; // Увеличиваем на 100
+        milestoneDisplay.textContent = `Следующий рубеж: ${milestone}`;
+      }
+    });
+  </script>
+</body>
+</html>
