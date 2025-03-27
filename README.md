@@ -20,3 +20,5 @@
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%971(3).jpg" width="200" height="100"> | Пейзаж саванны на 2 сезоне | 𝔸ℍ𝔸ℍ𝔸ℂ |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%971(4).jpg" width="200" height="100"> | Пейзаж пустыни на 2 сезоне | 𝔸ℍ𝔸ℍ𝔸ℂ |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%971(5).jpg" width="200" height="100"> | Первый сенат | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
+|  | 2 на 2 блока |  |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(1).jpg" width="200" height="200"> | Создание Республики | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
