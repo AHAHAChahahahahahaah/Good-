@@ -24,3 +24,8 @@
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(1).jpg" width="200" height="200"> | Создание Республики | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(2).png" width="200" height="200"> | Они держали в страхе Казань 4 года | 𝔸ℍ𝔸ℍ𝔸ℂ |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(3).png" width="200" height="200"> | 3 главные сексопилочки сервера | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(4).jpg" width="200" height="200"> | Собачья армия | Шкаф серый |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(5).jpg" width="200" height="200"> | Житель спит в лодке | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(6).jpg" width="200" height="200"> | Курочка | Влад🐮 |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(7).jpg" width="200" height="200"> | Мир майнкрафта | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(8).jpg" width="200" height="200"> | Клутая луна | 𝔸ℍ𝔸ℍ𝔸ℂ |
