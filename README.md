@@ -22,6 +22,5 @@
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%971(5).jpg" width="200" height="100"> | Первый сенат | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
 |  | 2 на 2 блока |  |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(1).jpg" width="200" height="200"> | Создание Республики | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
-| <img src="https://ahahachahahahahahahaah.github.io/saf/Paintings/2%C3%972(2).png" width="200" height="200"> | Они держали в страхе Казань4 года| 𝔸ℍ𝔸ℍ𝔸ℂ |
-| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(3).png" width="200" height="200"> | 3 главные сексопилочки сервера | 𝔸ℍ𝔸ℍ𝔸ℂ |
- 
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(2).png" width="200" height="200"> | Они держали в страхе Казань 4 года | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(3).png" width="200" height="200"> | 3 главные сексопилочки сервера | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
