@@ -56,3 +56,12 @@
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%974(3).png" width="400" height="400"> | Всемирная Империя | 𝔸ℍ𝔸ℍ𝔸ℂ |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%974(4).jpg" width="400" height="400"> | Кактус-качек | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%974(5).png" width="400" height="400"> | Открытие | Сара Бовинг |
+
+# Удалённые картины
+| Картина | Название | Автор |
+|---------|----------|-------|
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/1%C3%971(6)del.jpg" width="100" height="100"> | Аластор | Шкаф Серый |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/1%C3%971(7)del.jpg" width="100" height="100"> | Серый шкаф | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(1)del.jpg" width="200" height="200"> | Создание Ордена Торговцев | Шкаф Серый |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(7)del.jpg" width="200" height="200"> | Правители | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%972(1)del.jpg" width="400" height="200"> | С Новым Годом, товарищи! | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
