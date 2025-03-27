@@ -41,3 +41,9 @@
 |  | 3 на 4 блока |  |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%974(1).png" width="300" height="400"> | Птичка | 𝔸ℍ𝔸ℍ𝔸ℂ |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%974(2).png" width="300" height="400"> | Паровозик | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
+|  | 4 на 2 блока |  |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%972(1).png" width="400" height="200"> | С Новым Годом, товарищи! | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%972(2).png" width="400" height="200"> | 1 cезон | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%972(3).png" width="400" height="200"> | Имперская Республика | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%972(4).png" width="400" height="200"> | КАКТУС, ГДЕ МОЙ ДИЛДО? | 𝔸ℍ𝔸ℍ𝔸ℂ
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/4%C3%972(5).png" width="400" height="200"> | Первый сенат | ❄️Iv O🎄 |
