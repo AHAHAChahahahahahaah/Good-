@@ -29,3 +29,15 @@
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(6).jpg" width="200" height="200"> | Курочка | Влад🐮 |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(7).jpg" width="200" height="200"> | Мир майнкрафта | 𝔸ℍ𝔸ℍ𝔸ℂ |
 | <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/2%C3%972(8).jpg" width="200" height="200"> | Клутая луна | 𝔸ℍ𝔸ℍ𝔸ℂ |
+|  | 3 на 3 блока |  |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%973(1).png" width="300" height="300"> | Дом, милый дом | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%973(2).png" width="300" height="300"> | Клутой рассвет | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%973(3).png" width="300" height="300"> | Бебебеь | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%973(4).png" width="300" height="300"> | Кактус на Домбасе | Sanya |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%973(5).png" width="300" height="300"> | Пайнкотан | 𝔸ℍ𝔸ℍ𝔸ℂ | 
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%973(6).png" width="300" height="300"> | Политика | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%973(7).png" width="300" height="300"> | Саня и Артур | Sanya | 
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%973(8).png" width="300" height="300"> | Topkaktus | Sanya |
+|  | 3 на 4 блока |  |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%974(1).png" width="300" height="400"> | Птичка | 𝔸ℍ𝔸ℍ𝔸ℂ |
+| <img src="https://ahahachahahahahahaah.github.io/saf/Paintings/3%C3%974(2).png" width="300" height="400"> | Паровозик | 𝓜𝓲𝓼𝓽𝓮𝓻 𝓚𝓪𝓴𝓽𝓾𝓼 |
